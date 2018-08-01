@@ -3,7 +3,7 @@
 ********************************************************JAOdev***************************************************************************
 
 *****************************************************************************************************************************************
-Following Nyquist theorem, the discrete fourier transform output for a real signal array of N componets is N/2 + the continous value. 
+Following Nyquist theorem, the discrete fourier transform output for a real signal array of N componets is N/2 + 1 the continous value. 
 
 frecuency sample rate = N/ Td where N is the input array lenght and Td is the sample time rate
 
