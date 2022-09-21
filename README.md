@@ -1,9 +1,8 @@
 # Discrete-Fourier-Transform
 
-/* 
+
 *****************************************This code was created by Oviedo Julian**********************************************************
 ********************************************************JAOdev***************************************************************************
-                                              definition of dft.h and dft.c
 *****************************************************************************************************************************************
 Following Nyquist theorem, the discrete fourier transform output for a real signal array of N componets is N/2 + the continous value. 
 
@@ -18,4 +17,4 @@ the arrays input, amplitudeOutput and phaseOutput has to be manage externally. C
 
 amplitudeOutput and phaseOutput length is equal to input (length/2 +1)
 
-*/
+
